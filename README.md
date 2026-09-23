@@ -1,6 +1,6 @@
-# ¡Hola, soy Carlos! 👋
+# Bienvenido a mi perfil, me presento soy Andre hau
 
-Estudio Ingeniería en Sistemas Computacionales en el TecNM Celaya y trabajo repartiendo en moto para Uber Eats por Celaya, Guanajuato. Entre clases y entregas voy metiéndole a proyectos propios y de escuela.
+Estudio Ingeniería en Sistemas Computacionales en el TecNM campus Celaya. Soy apasionado por las tecnologías emergentes y actualmente me estoy especializando en Inteligencia de Datos y Plataformas en la Nube.
 
 ## 🔧 Stack
 
@@ -13,18 +13,10 @@ Estudio Ingeniería en Sistemas Computacionales en el TecNM Celaya y trabajo rep
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## 🚀 Proyectos
+## Proyectos
 
-- **CircularGuajira** — backend en NestJS con Clean Architecture para recolección, pesajes y liquidaciones de materiales reciclables (curso de Desarrollo Web y Base de Datos).
-- **Sistema de sorteos** — app en Next.js + Firebase ya en uso real: selección animada de ganador, vista pública en vivo y aviso automático por WhatsApp.
-- **SimMatch** — simulador de partidos de fútbol en Python con Monte Carlo, corriendo miles de partidos para sacar predicciones.
-- **Retro Racer** — juego de carreras pseudo-3D estilo retro en Flutter/Dart.
+He participado en una serie de proyectos ambiciosos: desde programar un ESP32 con 5 sensores para alimentar y darle datos a **BioPixel**, una versión casera de un Tamagotchi que corre local en el propio ESP32, hasta **GasIQ**, que usa datos masivos de una entidad pública para comparar semanalmente los precios de la gasolina y predecir dónde va a estar más barata por estado o incluso por ciudad. También he hecho landing pages para pequeñas pymes, ayudándolas a posicionar su marca en el mercado. Y mi proyecto insignia: un **sistema POS** que ya está en producción en un negocio real, con el que ahora ando buscando nuevos prospectos para ofrecer el punto de venta completo — desde solo el software hasta hardware, instalación y capacitación del sistema.
 
-## 📊 Stats
-
-![Mis stats](https://github-readme-stats.vercel.app/api?username=Andreushin&show_icons=true&theme=default&hide_border=true)
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreushin&layout=compact&hide_border=true)
-
-## 📫 Contacto
+## Contacto
 
 - Correo: andresmtzjau99@gmail.com
